@@ -1,0 +1,1 @@
+python3 Improved-WGAN.py --load model/model-620000.index --sample_dir output_images/ --num_images 10
