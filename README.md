@@ -1,7 +1,8 @@
 # Synthesizing Fingerprint Images
 
-The code is an implementation of the paper "Fingerprint Synthesis: Evaluating Fingerprint Search at Scale, in ICB 2018" by Kai Cao and Anil K. Jain.
+The code is an implementation of the paper "[Fingerprint Synthesis: Evaluating Fingerprint Search at Scale](https://ieeexplore.ieee.org/document/8411200), in ICB 2018" by K. Cao and A. K. Jain.
 
+Further work to synthesize a dataset of diverse 100 million fingerprint images can be found in this paper "[Fingerprint Synthesis: Search with 100 Million Prints](https://arxiv.org/abs/1912.07195)" by V. Mistry, J. J. Engelsma and A. K. Jain.
 
 ## Dependencies
 
